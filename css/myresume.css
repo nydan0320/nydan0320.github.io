@@ -21,12 +21,12 @@ h1 .text-primary {
 }
 
 .bg-primary {
-	background-color: #ff34b3!important;
+	background-color: #ff34b3 !important;
 	background-image: url("img/"brick-wall-dark.png");
 }
 
 .text-primary {
-	color: #ff34b3!important;
+	color: #ff34b3 !important;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
