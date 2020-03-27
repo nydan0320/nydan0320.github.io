@@ -22,7 +22,7 @@ h1 .text-primary {
 
 .bg-primary {
 	background-color: #ff34b3!important;
-	background-image: url("img/"https://www.transparenttextures.com/patterns/brick-wall-dark.png");
+	background-image: url("img/"brick-wall-dark.png");
 }
 
 .text-primary {
@@ -43,6 +43,7 @@ a:active, a:focus, a:hover {
 
 .social-icons a:hover {
 	background-color: #ff34b3;
+	background-image: url("img/"brick-wall-dark.png");
 }
 
 .dev-icons .list-inline-item i:hover {
