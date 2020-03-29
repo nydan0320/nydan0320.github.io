@@ -22,8 +22,8 @@ h1 .text-primary {
 
 .bg-primary {
 	background-color: #ff34b3!important;
-	background-color: #ff34b3
-	background-image: url("brick-wall-dark.png")
+	background-color: #ff34b3;
+	background-image: url("brick-wall-dark.png");
 }
 
 .text-primary {
