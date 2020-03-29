@@ -22,7 +22,9 @@ h1 .text-primary {
 
 .bg-primary {
 	background-color: #ff34b3!important;
-	background-image: radial-gradient(#ff34b3,#ff2678,#fe0f54);
+	background-image: url(css/"brick-wall-dark.png");
+	background-position: center;
+
 }
 
 .text-primary {
