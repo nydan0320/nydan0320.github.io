@@ -21,9 +21,7 @@ h1 .text-primary {
 }
 
 .bg-primary {
-	background-color: #ff34b3!important;
-	background-image: url("css/brick-wall-dark.png");
-	background-position: center;
+	background-image: url("img/brick-wall-dark.png");
 }
 
 .text-primary {
