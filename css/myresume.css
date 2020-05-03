@@ -132,6 +132,16 @@ a:active, a:focus, a:hover {
   .timeline-left::after, .timeline-right::after {
     left: 17px;
   }
+.box {
+ width: 250px;
+ height: 300px;
+ background: #FCD7E2; 
+ margin: 10px;
+ display: inline-block;
+ border: 5px solid #ff34b3;
+ position: relative;
+ text-align: center;
+ padding: 10px 15px; 
 }
 
 
