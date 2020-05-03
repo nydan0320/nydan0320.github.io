@@ -132,9 +132,7 @@ a:active, a:focus, a:hover {
   .timeline-left::after, .timeline-right::after {
     left: 17px;
   }
-div img {
-  vertical-align : middle;
-}
+
 
 
 
