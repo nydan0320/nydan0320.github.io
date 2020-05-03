@@ -143,6 +143,10 @@ a:active, a:focus, a:hover {
  text-align: center;
  padding: 10px 15px; 
 }
+#gallery .box .img-profile {
+    max-width: 10rem;
+    max-height: 20rem;
+}
 
 
 
